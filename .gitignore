@@ -1,0 +1,35 @@
+# la carpeta física donde Postgres guarda los datos
+postgres_data/
+
+.env
+
+*.jar
+*.war
+*.ear
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Visual Studio Code
+.vscode/
+.history/
+*.code-workspace
+
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+*.log
+logs/
+temp/
+tmp/
+
+node_modules/
+dist/
+.angular/
+.npm
